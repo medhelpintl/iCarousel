@@ -64,7 +64,7 @@
 #ifdef ICAROUSEL_MACOS
 #define MAX_VISIBLE_ITEMS 50
 #else
-#define MAX_VISIBLE_ITEMS 30
+#define MAX_VISIBLE_ITEMS 100
 #endif
 
 
